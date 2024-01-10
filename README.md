@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dltronix
 - 👀 I’m interested in Penetration Testing and Red Teaming.
 - 🌱 I’m currently learning Python and GoLang for security projects.
-- 💞️ I’m looking to collaborate on Web Application Security and Network Penetration testing and Home Automation Hacking.
+- 💞️ I’m looking to collaborate on Web Application Security and Penetration Testing automation and Home Automation Hacking. Recently built a MiSTer FPGA retro gaming machine.
 - 📫 How to reach me:
 - X/Twitter: @IllusionEvolves
 
